@@ -18,3 +18,10 @@ h1 {
 .main-index {
   font-size: 30px;
 }
+
+.mast-head {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
