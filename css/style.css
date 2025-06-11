@@ -27,8 +27,9 @@ h1 {
 }
 
 .gallery-image {
-  width: 200px;
-  height: 120px;
+  margin-top: 25px;
+  width: 1000px;
+  height: 600px;
 }
 
 .gallery-image img {
