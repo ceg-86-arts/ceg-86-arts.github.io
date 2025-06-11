@@ -15,6 +15,10 @@ h1 {
   text-align: center;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .main-index {
   margin-left: auto;
   margin-right: auto;
@@ -28,6 +32,7 @@ h1 {
 
 .gallery-image {
   margin-top: 100px;
+  padding-top: 100px;
   width: 1000px;
   height: 600px;
 }
