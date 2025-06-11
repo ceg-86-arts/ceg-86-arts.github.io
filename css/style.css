@@ -25,3 +25,13 @@ h1 {
   display: flex;
   justify-content: center;
 }
+
+.gallery-image {
+  width: 200px;
+  height: 120px;
+}
+
+.gallery-image img {
+  width: 100%;
+  height: auto;
+}
