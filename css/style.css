@@ -41,3 +41,7 @@ ul {
   width: 100%;
   height: auto;
 }
+
+table.poem-table td {
+  border-bottom: 1px solid black;
+}
