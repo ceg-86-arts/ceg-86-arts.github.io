@@ -37,6 +37,7 @@ td {
 .gallery-image {
   margin-top: 100px;
   padding-top: 100px;
+  padding-bottom: 100px;
   width: 1000px;
   height: 600px;
 }
