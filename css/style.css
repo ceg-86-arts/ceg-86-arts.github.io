@@ -19,6 +19,10 @@ ul {
   list-style: none;
 }
 
+td {
+  font-size: 30px;
+}
+
 .main-index {
   margin-left: auto;
   margin-right: auto;
