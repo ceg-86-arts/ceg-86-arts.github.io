@@ -34,12 +34,9 @@ td {
   justify-content: center;
 }
 
-.gallery-image {
-  margin-top: 100px;
+.gallery-image td {
   padding-top: 100px;
   padding-bottom: 100px;
-  width: 800px;
-  height: 480px;
 }
 
 table.poem-table td {
