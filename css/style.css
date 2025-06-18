@@ -36,5 +36,7 @@ td, figcaption {
 table.poem-table td {
   padding-top: 25px;
   padding-bottom: 25px;
+  padding-left: 25px;
+  margin-bottom: 25px;
   border: 2px solid black;
 }
