@@ -18,7 +18,7 @@ ul {
   list-style: none;
 }
 
-td {
+td, figcaption {
   font-size: 20px;
 }
 
