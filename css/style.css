@@ -38,8 +38,6 @@ table.poem-table {
 }
 
 table.poem-table td {
-  padding-top: 25px;
-  padding-bottom: 25px;
-  padding-left: 25px;
+  padding: 25px;
   border: 2px solid black;
 }
